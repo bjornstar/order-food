@@ -1,9 +1,10 @@
 {
   "name": "@bjornstar/order-food",
   "description": "Let's order food: a demonstration of using React to build a form",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "dependencies": {
     "classnames": "^2.2.5",
+    "gh-pages": "^1.2.0",
     "rc-select": "^8.0.9",
     "rc-steps": "^3.1.1",
     "react": "^16.4.0",
@@ -11,6 +12,8 @@
     "react-scripts": "1.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
@@ -25,5 +28,5 @@
   "bugs": {
     "url": "https://github.com/bjornstar/order-food/issues"
   },
-  "homepage": "https://github.com/bjornstar/order-food#readme"
+  "homepage": "https://bjornstar.github.io/order-food"
 }
