@@ -1,0 +1,29 @@
+{
+  "name": "@bjornstar/order-food",
+  "description": "Let's order food: a demonstration of using React to build a form",
+  "version": "1.0.0",
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "rc-select": "^8.0.9",
+    "rc-steps": "^3.1.1",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjornstar/intercept-redirect.git"
+  },
+  "author": "Bjorn Stromberg <bjorn@bjornstar.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bjornstar/order-food/issues"
+  },
+  "homepage": "https://github.com/bjornstar/order-food#readme"
+}
