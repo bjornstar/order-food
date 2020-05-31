@@ -1,7 +1,7 @@
 {
   "name": "@bjornstar/order-food",
   "description": "Let's order food: a demonstration of using React to build a form",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "dependencies": {
     "classnames": "^2.2.5",
     "gh-pages": "^1.2.0",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bjornstar/intercept-redirect.git"
+    "url": "git+https://github.com/bjornstar/order-food.git"
   },
   "author": "Bjorn Stromberg <bjorn@bjornstar.com>",
   "license": "MIT",

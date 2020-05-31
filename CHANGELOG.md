@@ -1,5 +1,8 @@
 # @bjornstar/order-food
 
+## v1.1.2 - 2020-05-31
+- Fix repository entry in `package.json`
+
 ## v1.1.1 - 2018-06-07
 - Add a link in the `README`
 
